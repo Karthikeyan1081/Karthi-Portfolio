@@ -1,0 +1,87 @@
+html{
+    background-color:rgb(47, 47, 68);
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    scroll-behavior: smooth;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+h2{
+    margin-bottom: 0px;
+    padding-left: 100px;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    margin-left: 200px;
+}
+
+h1{
+    margin-right: 133px;
+    color: aqua;
+    font-family: "Caveat", cursive;
+}
+
+#res{
+    margin-left: 43%;
+    margin-top: 200px;
+}
+
+.i{
+    padding: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: rgb(88, 88, 129);
+    color: yellow;
+}
+
+#about{
+    margin-bottom: 20px;
+    margin-left: 450px;
+    scroll-margin-block: 100px;
+}
+
+#port{
+    padding-left: 0px;
+    margin-top: 50px;
+}
+
+.but{
+    margin-top: 200px;
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+.butt{
+    text-decoration: none;
+    color: aqua;
+}
+
+#nav{
+    position: sticky;
+    top: 20px;
+    z-index: 1;
+    /* margin-left: 600px; */
+    background-color: hsl(180, 100%, 50%,0.2);
+    padding-left: 600px;
+    backdrop-filter: blur(100px);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
